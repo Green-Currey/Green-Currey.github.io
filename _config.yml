@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : twitter.com/greencurrey
 facebook:
-  username               :
+  username               : 
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -84,26 +84,26 @@ author:
   avatar           : "Portrait.jpg"
   bio              : "Personal github website"
   location         : "Bozeman, Montana"
-  employer         :
+  employer         : "NASA Goddard Space Flight Center & Montana State Univeristy"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "academicpages"
+  email            : "bryce.currey@monana.edu"
+  researchgate     : "https://www.researchgate.net/profile/Bryce-Currey"
+  personal         : "greencurrey.com"
+  bitbucket        : 
+  codepen          : 
+  dribbble         : 
+  flickr           : 
+  facebook         : 
+  foursquare       : 
+  github           : "green-currey"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "greencurrey
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0001-9794-9906"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
