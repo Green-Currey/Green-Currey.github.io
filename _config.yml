@@ -11,7 +11,7 @@ title                    : "Bryce Currey, Ph.D / Ecological Remote Sensing"
 title_separator          : "-"
 name                     : &name "Bryce Currey"
 description              : &description "Post doctoral scientist at NASA Goddard Space Flight Center and Montana State University"
-url                      : https://green-currey.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://green-currey.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "green-currey/green-currey.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : twitter.com/greencurrey
+  username               : "twitter.com/greencurrey"
 facebook:
   username               : 
   app_id                 :
@@ -86,10 +86,10 @@ author:
   location         : "Bozeman, Montana"
   employer         : "NASA Goddard Space Flight Center & Montana State Univeristy"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=Z0Tf-M0AAAAJ&hl=en&oi=ao"
   email            : "bryce.currey@monana.edu"
   researchgate     : "https://www.researchgate.net/profile/Bryce-Currey"
-  personal         : "greencurrey.com"
+  uri              : 
   bitbucket        : 
   codepen          : 
   dribbble         : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "twitter.com/greencurrey"
   vine             :
   weibo            :
   xing             :
